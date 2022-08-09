@@ -10,14 +10,16 @@
 #### 参数化读取文件里的cve编号
 </br>
 
-![image](https://user-images.githubusercontent.com/61231746/183600644-465969ef-c3a8-4f30-ab0d-9266c7b895ab.png)
+![image](https://user-images.githubusercontent.com/61231746/183602780-1bed9d29-7b55-4c04-ab14-29d5bcdc9159.png)
+
 
 #### 展示cve编号对应的url
 </br>
 
-![image](https://user-images.githubusercontent.com/61231746/183600503-c27b324f-4415-407d-a689-7bf7d0fe7b7a.png)
+![image](https://user-images.githubusercontent.com/61231746/183603159-eacb48c7-d03b-47cf-978d-a3332233cb23.png)
+
 
 #### 存储到txt中
 </br>
 
-![image](https://user-images.githubusercontent.com/61231746/183600600-f30cee72-f3bc-4018-a294-a86d4966d754.png)
+![image](https://user-images.githubusercontent.com/61231746/183602892-7566d634-66c2-421c-8e98-e3fd5576ab81.png)
